@@ -1,2 +1,2 @@
 White
-Special magic line
+Fixing both magic line to become arcane line
